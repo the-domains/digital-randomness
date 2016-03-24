@@ -1,28 +1,40 @@
-name: Digital Randomness
-favicon: null
-layout_spectrum: 0.2472205371595919
-typography_spectrum: 0.3354004386346787
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.7956989
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.688172
+  brandStrength: 0.1169737945310771
+  lightness: 0.1218638
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.11697379453107715
-  lightness: 0.8561670056078583
-  saturation: 0.5139544052071869
-  rhythmicContrast: 0.6915393627714366
-purpose: []
+  rhythmicContrast: 0.6953405
+typography_spectrum: 0.3354004386346787
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Digital Randomness
