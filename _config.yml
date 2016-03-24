@@ -1,0 +1,28 @@
+name: Digital Randomness
+favicon: null
+layout_spectrum: 0.2472205371595919
+typography_spectrum: 0.3354004386346787
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11697379453107715
+  lightness: 0.8561670056078583
+  saturation: 0.5139544052071869
+  rhythmicContrast: 0.6915393627714366
+purpose: []
